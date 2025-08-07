@@ -11,12 +11,13 @@ This project analyzes Atomberg’s Share of Voice (SoV) in the "smart fan" categ
 - Pandas and Matplotlib for computation and visualization
 
 ## Project Structure
+'''
 ├── data/                    # Raw and cached search results\
 ├── utils/                   # Scraping, scoring, and SoV modules\
 ├── results/                 # Final SoV outputs and plots\
 ├── findings_report.pdf      # Final two-page report\
 └── main.ipynb               # End-to-end analysis notebook
-
+'''
 ## Key Features
 
 - Platform-specific scraping for top-N search results
