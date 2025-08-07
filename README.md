@@ -24,5 +24,5 @@ This project analyzes Atomberg’s Share of Voice (SoV) in the "smart fan" categ
 
 ## Links
 
-- Full Report: [findings_report.pdf](https://github.com/Tejaswini170104/atomberg.pdf)
+- Full Report: [findings_report.pdf](https://github.com/Tejaswini170104/atomberg_asg/atomberg.pdf)
 - Codebase: [GitHub Repository](https://github.com/Tejaswini170104/atomberg_asg)
