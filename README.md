@@ -12,11 +12,9 @@ This project analyzes Atomberg’s Share of Voice (SoV) in the "smart fan" categ
 
 ## Project Structure
 ```
-├── data/                    # Raw and cached search results\
-├── utils/                   # Scraping, scoring, and SoV modules\
-├── results/                 # Final SoV outputs and plots\
-├── findings_report.pdf      # Final two-page report\
-└── main.ipynb               # End-to-end analysis notebook
+├── results.png              # Final SoV outputs and plot\
+├── atomberg.pdf             # Final two-page report\
+└── atomberg.ipynb           # End-to-end analysis notebook
 ```
 ## Key Features
 
